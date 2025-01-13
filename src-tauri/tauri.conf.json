@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "panel",
-        "width": 800,
-        "height": 600
+        "title": "控制面板-首页",
+        "width": 1250,
+        "height": 650
       }
     ],
     "security": {
